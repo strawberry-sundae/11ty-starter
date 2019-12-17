@@ -1,5 +1,10 @@
 @import '_reset.scss';
-
+@import "_variables.scss";
+@import "_globals.scss";
+@import "_typography.scss";
+@import "_elements.scss";
+@import "_components.scss";
+@import "_layout.scss";
 $var: white;
 
 body {
