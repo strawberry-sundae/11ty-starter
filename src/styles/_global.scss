@@ -1,4 +1,12 @@
 html {
+  font-family: $font-display;
   font-size: 1em;
   line-height: 1.5;
+}
+
+blockquote,
+footer ul,
+main ul,
+p {
+  font-family: $font-text;
 }
